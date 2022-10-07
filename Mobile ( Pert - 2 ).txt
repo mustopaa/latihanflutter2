@@ -1,0 +1,10 @@
+								Pemrograman Mobile ( Pertemuan ke-2 )
+
+									" Version Control System "
+- Agenda
+- Introduction ( vcs ) ==> sebuah infrastruktur yang dapat mendukung pengembangan software secara kolaboratif ( contoh nya pada pengambilan reposiori pada git ).
+	vcs juga bisa kembali ke versi software sebelumnya ( Backup ) data. VCS dapat merekam siapa yang terakhir yang menggunakan.
+- VCS Local :
+	. Checkout
+	.
+- VCS Terpusat
